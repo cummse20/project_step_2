@@ -1,2 +1,4 @@
-# project_step_2
-Project step 1: Research statement
+# Project Step 2
+
+> Research statement
+
