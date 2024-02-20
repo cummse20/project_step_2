@@ -61,5 +61,6 @@ Some questions to consider:
 
 1. Use the necessary Quarto features to format your document (*e.g.*, headings, lists, links, citations, *etc.*).
 2. Render your project (to HTML).
-3. Push your changes to GitHub.
+3. Commit and push your changes to GitHub.
+4. Create an Issue or Discussion post in your repository to share your progress and ask questions. Tag the instructor `@francojc` in your post.
 
