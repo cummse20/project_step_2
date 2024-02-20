@@ -17,7 +17,7 @@
 
 ### Getting started
 
-*Make sure that you have forked and cloned the `project_web` repository from GitHub and that your Git and GitHub configuration is set up on your computer. See [recipe](https://qtalr.github.io/qtalrkit/articles/recipe-4.html#check-your-understanding) and slides [A](https://lin-380-s24.github.io/slides/day-10.html#/) and [B](https://lin-380-s24.github.io/slides/day-11.html#/) for guidance.*
+*Make sure that you have forked and cloned the [`project_web`](https://github.com/lin-380-s24/project_web) repository from GitHub and that your Git and GitHub configuration is set up on your computer. See [recipe](https://qtalr.github.io/qtalrkit/articles/recipe-4.html#check-your-understanding) and slides [A](https://lin-380-s24.github.io/slides/day-10.html#/) and [B](https://lin-380-s24.github.io/slides/day-11.html#/) for guidance.*
 
 1. Open your research project repository in RStudio.
 2. Open and modify the `reports/prospectus.qmd` as necessary to complete the steps below.
