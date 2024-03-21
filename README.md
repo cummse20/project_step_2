@@ -45,7 +45,7 @@
    - What are the objectives of your research?
    - What is the expected impact of your research on the field or area?
 
-### Assessing your progress
+## Assessing your progress
 
 1. Reflect on the process of identifying a research problem and developing a research statement.
 
