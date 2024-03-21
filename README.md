@@ -17,14 +17,14 @@
 
 ### Getting started
 
-*Make sure that you have forked and cloned the [`project_web`](https://github.com/lin-380-s24/project_web) repository from GitHub and that your Git and GitHub configuration is set up on your computer. See [recipe](https://qtalr.github.io/qtalrkit/articles/recipe-4.html#check-your-understanding) and slides [A](https://lin-380-s24.github.io/slides/day-10.html#/) and [B](https://lin-380-s24.github.io/slides/day-11.html#/) for guidance.*
+*Make sure that you have forked and cloned the [`project_web`](https://github.com/lin-380-s24/project_web) repository from GitHub and that your Git and GitHub configuration is set up on your computer. See [recipe](https://qtalr.github.io/qtalrkit/articles/recipe-4.html#check-your-understanding) and slides [Scaffolding research](https://lin-380-s24.github.io/slides/day-10.html#/) and [Project orientation](https://lin-380-s24.github.io/slides/day-11.html#/) for guidance.*
 
 1. Open your research project repository in RStudio.
 2. Open and modify the `reports/prospectus.qmd` as necessary to complete the steps below.
 
 *Remember to use the edit, add, commit, push workflow to update your GitHub page.*
 
-### Connect with the literature
+### Brainstorming
 
 1. Continue to refine your interest statement and gather and assess the literature with the goal to identify a research problem.
 2. First, search and scan the literature focusing on the aims and findings of the studies (this will be found in the abstract sections).
@@ -39,7 +39,7 @@
 
 ### Draft a research statement
 
-1. Develop a research statement that aims to address the research problem (gap) you have identified. Your statement should be a paragraph or two in length and should address the following questions:
+1. Develop a research statement that aims to address the research problem (gap) you have identified in your [brainstorming](#brainstorming). Your statement should be a paragraph or two in length and should address the following questions:
    - What is the research problem (gap) you have identified?
    - What is your research question or hypothesis?
    - What are the objectives of your research?
